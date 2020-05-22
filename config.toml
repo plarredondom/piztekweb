@@ -55,7 +55,7 @@ weight = 4
 
 ########################### Default parameters ##########################
 [params]
-logo = ""
+logo = "/images/logo_piztek.png"
 home = "Inicio"
 # Meta data
 description = "Paginas web economicas"
