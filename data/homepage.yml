@@ -75,7 +75,7 @@ aboutProduct:
   items:
     # about product item loop
     - image : "images/showcase/Search-engines.png"
-      title : "Lorem ipsum dolor sit amet."
+      title : "Optimizacion SEO, para mejorar posicionamiento."
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
             sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
             quas, quo harum deserunt consequatur cumque!"
@@ -86,7 +86,7 @@ aboutProduct:
         
     # about product item loop
     - image : "images/showcase/Web-devices.png"
-      title : "Lorem ipsum dolor sit amet."
+      title : "Adaptado a cualquier dispositivo, espacialmente a moviles."
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
             sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
             quas, quo harum deserunt consequatur cumque!"
