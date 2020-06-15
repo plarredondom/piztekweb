@@ -18,7 +18,7 @@ product:
 ############################# Feature ############################
 features:
   enable : true
-  title : "Nuestras ventajas"
+  title : "¿Por que hacer tu sitio web con nosotros?"
   image : "images/High-five.png"
 
   # feature at the left of the image
@@ -26,35 +26,35 @@ features:
     # feature item loop
   - icon : "tf-mobile"
     icon2 : "tf-ion-ipad"
-    title : "Optimizado para moviles"
+    title : "Optimizado para moviles."
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
     
     # feature item loop
-  - icon : "tf-ion-ios-bolt-outline"
-    title : "Carga super rapida"
+  - icon : "tf-ion-jet"
+    title : "Carga super rapida."
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
     
     # feature item loop
-  - icon : "tf-ion-cash"
-    title : "El mejor precio"
+  - icon : "tf-ion-ios-search"
+    title : "Muestrate en los buscadores."
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
 
   # feature at the right of the image
   rightSide:
     # feature item loop
-  - icon : "tf-ion-ios-alarm-outline"
-    title : "Paga en Bolivares"
+  - icon : "tf-wallet"
+    title : "Paga en Bolivares al mejor precio."
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
     # feature item loop
-  - icon : "tf-ion-ios-bell-outline"
-    title : "Elegant Design"
+  - icon : "tf-bargraph"
+    title : "Hazlo crecer como quieras."
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
     # feature item loop
-  - icon : "tf-ion-ios-cart-outline"
-    title : "Easy Pricing"
+  - icon : "tf-ion-ios-color-wand-outline"
+    title : "Lo dificil lo hacemos por ti."
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
 
