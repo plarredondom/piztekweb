@@ -29,7 +29,7 @@ features:
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
     
     # feature item loop
-  - icon : "ion:speedometer-outline"
+  - icon : "tf-ion-speedometer-outline"
     title : "Carga super rapida"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
     
