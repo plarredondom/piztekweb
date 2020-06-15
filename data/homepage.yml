@@ -24,7 +24,7 @@ features:
   # feature at the left of the image
   leftSide:
     # feature item loop
-  - icon : "tf-ion-iphone"
+  - icon : "tf-mobile"
     icon2 : "tf-ion-ipad"
     title : "Optimizado para moviles"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
