@@ -24,17 +24,17 @@ features:
   # feature at the left of the image
   leftSide:
     # feature item loop
-  - icon : "ion-ios-phone-portrait"
+  - icon : "tf-ion-iphone"
     title : "Optimizado para moviles"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
     
     # feature item loop
-  - icon : "tf-ion:speedometer-outline"
+  - icon : "tf-ion-ios-bolt-outline"
     title : "Carga super rapida"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
     
     # feature item loop
-  - icon : "tf-ion-ios-cart-outline"
+  - icon : "tf-ion-cash"
     title : "El mejor precio"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
