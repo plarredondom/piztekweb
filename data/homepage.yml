@@ -34,7 +34,7 @@ features:
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
     
     # feature item loop
-  - icon : "tf-ion-ios-cart-outline"
+  - icon : "tf-ion-ios-pc-outline"
     title : "El mejor precio"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
