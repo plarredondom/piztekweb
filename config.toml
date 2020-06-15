@@ -48,8 +48,8 @@ URL = "gallery"
 weight = 3
 
 [[menu.main]]
-name = "Testimonios"
-URL = "testimonial"
+name = "Tienda"
+URL = "tienda"
 weight = 4
 
 
