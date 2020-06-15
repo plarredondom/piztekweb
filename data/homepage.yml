@@ -1,6 +1,6 @@
 ############################# banner ############################
 banner:
-  enable : false
+  enable : true
   title : "Construimos tu sitio web corporativo. 
             Muestrate en internet!"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
