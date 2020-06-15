@@ -24,7 +24,7 @@ features:
   # feature at the left of the image
   leftSide:
     # feature item loop
-  - icon : "icon ion-ios-phone-portrait"
+  - icon : "ion-ios-phone-portrait"
     title : "Optimizado para moviles"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
     
