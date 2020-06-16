@@ -5,8 +5,11 @@ banner:
             Muestrate en internet!"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
   image : "images/Website_setup.png"
-  button: "Compra el tuyo desde $100"
-
+  button:
+        enable : true
+        label : "Ir a la Tienda"
+        link : "/tienda"
+  
 ############################## product ###########################
 product:
   name : "Sitios Web para tu negocio!"
