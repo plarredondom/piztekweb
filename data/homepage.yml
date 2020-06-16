@@ -8,7 +8,7 @@ banner:
   button:
         enable : true
         label : "Ir a la Tienda"
-        link : "tienda"
+        link : "#"
   
 ############################## product ###########################
 product:
