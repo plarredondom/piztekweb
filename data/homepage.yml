@@ -143,3 +143,4 @@ testimonial:
 ############################# tienda ############################
 tienda:
   enable : true
+  title : "Nuestros productos:"
