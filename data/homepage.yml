@@ -8,8 +8,9 @@ banner:
   button:
         enable : true
         label : "Ir a la Tienda"
+        #label : "Contactanos al Whatsapp"
         link : "#"
-  
+        #link : https://wa.me/573106418025?text=Me%20interesa%20el%20auto%20que%20estás%20vendiendo
 ############################## product ###########################
 product:
   name : "Sitios Web para tu negocio!"
@@ -145,5 +146,5 @@ testimonial:
 
 ############################# tienda ############################
 tienda:
-  enable : true
+  enable : false
   title : "Nuestros productos:"
